@@ -8,6 +8,6 @@ public class Pessoa {
     int idade;
     
     public void imprimir () {
-        System.out.println("Olá meu nome é " + nome + " e tenho " + idade);
+        System.out.println("Olá meu nome é " + nome + " e tenho " + idade + " anos");
 }
 }
